@@ -8,5 +8,17 @@ JRE System Library [JavaSE-9]->Access rules->Edit->Add->Accessible: javafx/**
 ===============================================================================
 How to get media files with Public Domain license ?
 -------------------------------------------------------------------------------
+Download media files with Public Domain license:
+    Public Domain ~ cc0 (360p).mp4
+    Public Domain ~ cc0 (540p).mp4
+    Public Domain ~ cc0 (720p).mp4
+    Public Domain ~ cc0 (1080p).mp4
+    Public Domain ~ cc0.gif
+    Public Domain ~ cc0.m4a
+    Public Domain ~ cc0.mp3
+    Public Domain ~ cc0.png
+    Public Domain ~ cc0.txt
+from URL:
+https://github.com/mikelaud/howto-knowledge/tree/master/src/main/resources
 ===============================================================================
 %%
