@@ -1,0 +1,9 @@
+HOWTO Knowledge
+===============================================================================
+How to enable autocomplete for JavaFX to work for JDK9 in Eclipse Oxygen.1a
+-------------------------------------------------------------------------------
+Eclipse IDE for Java Developers (Version: Oxygen.1a Release (4.7.1a))->
+Project->Java Build Path->Libraries->Modulepath->
+JRE System Library [JavaSE-9]->Access rules->Edit->Add->Accessible: javafx/**
+===============================================================================
+%%
